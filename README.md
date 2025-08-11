@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UwUOcha&theme=transparent&hide_border=true" width="80%"/>
 </p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width=485 src="https://github-readme-stats.vercel.app/api?username=UwUOcha&theme=github_dark&count_private=true&show_icons=true" />
+</a>
