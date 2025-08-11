@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=485 src="https://github-readme-stats.vercel.app/api?username=UwUOcha&locale=ru&theme=github_dark&count_private=true&show_icons=true" />
+  <img align="center" width=485 src="https://github-readme-stats.vercel.app/api?username=UwUOcha&locale=ru&theme=ambient_gradient&count_private=true&show_icons=true" />
 </a>
