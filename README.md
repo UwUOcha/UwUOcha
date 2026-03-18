@@ -1,5 +1,10 @@
+```
+                                _   _        _   _  ___     _         
+                               | | | |_ __ _| | | |/ _ \ __| |_  __ _ 
+                               | |_| \ V  V / |_| | (_) / _| ' \/ _` |
+                                \___/ \_/\_/ \___/ \___/\__|_||_\__,_|                         
+```
 🧑‍🏭 Working on the TZT-Project.
-
 <!--
 **UwUOcha/UwUOcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
