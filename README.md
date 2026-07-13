@@ -19,4 +19,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![UwUOcha's GitHub stats](https://github-stats-extended.vercel.app/api?username=uwuocha)](https://github.com/stats-organization/github-stats-extended)
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub statistics">
+</p>
+
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Most used languages">
+</p>
